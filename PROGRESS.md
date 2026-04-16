@@ -1,25 +1,25 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 101 | ✔️ | ✔️ | ✔️ | 126 |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Traditional Chinese](#tchinese-繁體中文) | ✔️ | ✔️ | ✔️ | 96 | ✔️ | ✔️ | ✔️ | 125 |
 | [Czech](#czech-čeština) | ✔️ | ✔️ | ✔️ | 3766 | 286 | 231 | 972 | 146 |
 | [Danish](#non-curated-languages) | 57 | 231 | 43 | 3915 | 286 | 231 | 710 | 147 |
 | [Dutch](#non-curated-languages) | 56 | 2004 | 43 | 3384 | 286 | 231 | 710 | 146 |
 | [Finnish](#non-curated-languages) | ✔️ | 2004 | 37 | 3241 | 215 | 171 | 632 | 145 |
 | [French](#french-français) | ✔️ | 67 | ✔️ | 2529 | 285 | ✔️ | 365 | 111 |
-| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [German](#german-deutsch) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Hungarian](#non-curated-languages) | 56 | 138 | 43 | 3384 | 286 | 231 | 975 | 147 |
 | [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4350 | 289 | 236 | 972 | 145 |
-| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
-| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | 1 |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 30 | ✔️ | ✔️ | ✔️ | 1 |
+| [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 35 | ✔️ |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 30 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4089 | 286 | 231 | 710 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3028 | 15 | 20 | 137 | 127 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2474 | 266 | 52 | 636 | 142 |
 | [Brazilian Portuguese](#brazilian-português) | 1 | ✔️ | ✔️ | 999 | 28 | 23 | 4 | 3 |
 | [Romanian](#non-curated-languages) | 56 | 1996 | 49 | 4095 | 286 | 231 | 967 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [European Spanish](#spanish-español-de-españa) | ✔️ | 2004 | ✔️ | 2027 | 3 | 1 | 3 | 125 |
 | [Latin American Spanish](#latam-español-latinoamericano) | 1 | 2004 | ✔️ | 4435 | 34 | 24 | 207 | 143 |
 | [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 59 | ✔️ | ✔️ | ✔️ | 72 |
@@ -41,9 +41,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20260420_schinese.xml](release_notes/20260420_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -55,11 +53,7 @@
 
 ### Strings
 
-- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 101 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20260420_tchinese.xml](release_notes/20260420_english.xml) is missing.
+- [reactivedrop_tchinese.txt](resource/reactivedrop_tchinese.txt) has 96 untranslated strings.
 
 ### Mail and News
 
@@ -515,9 +509,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20260420_german.xml](release_notes/20260420_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -710,9 +702,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20260420_italian.xml](release_notes/20260420_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
@@ -726,10 +716,6 @@
 
 - [platform/vgui_japanese.txt](platform/vgui_japanese.txt) has 35 untranslated strings.
 
-### Upcoming Release Notes
-
-- [20260420_japanese.xml](release_notes/20260420_english.xml) is missing.
-
 </details>
 
 <details><summary>
@@ -741,10 +727,6 @@
 ### Strings
 
 - [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 30 untranslated strings.
-
-### Upcoming Release Notes
-
-- [20260420_koreana.xml](release_notes/20260420_english.xml) is missing.
 
 </details>
 
@@ -1115,9 +1097,7 @@
 
 </summary>
 
-### Upcoming Release Notes
-
-- [20260420_russian.xml](release_notes/20260420_english.xml) is missing.
+✓ Up to date!
 
 </details>
 
