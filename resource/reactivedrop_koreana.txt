@@ -10835,5 +10835,9 @@
 "challenge_traitors_role_chat_skill_description_mimic"		""
 "[english]challenge_traitors_role_hud_role_description_mimic"		"Alien Expert's scanner sees you as an IAF marine"
 "challenge_traitors_role_hud_role_description_mimic"		"외계 전문가의 탐지기가 당신을 IAF 해병으로 인식합니다."
+		"[english]asw_ob_office_rev1"		"Escape using south door"
+		"asw_ob_office_rev1"		"Escape using south door"
+		"[english]asw_ob_office_rev1b"		"Proceed to the Rydberg Reactor"
+		"asw_ob_office_rev1b"		"Proceed to the Rydberg Reactor"
 }
 }
