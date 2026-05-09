@@ -10492,6 +10492,8 @@
 "rd_crafting_submit_ready"		"Herstellen!"
 "[english]rd_crafting_submit_in_progress"		"Crafting..."
 "rd_crafting_submit_in_progress"		"Herstellen..."
+		"[english]rd_crafting_select_items"		"Select an item for this blueprint:"
+		"rd_crafting_select_items"		"Select an item for this blueprint:"
 "[english]rd_crafting_required_items"		"Items:"
 "rd_crafting_required_items"		"Gegenstände:"
 "[english]rd_crafting_output_items"		"This blueprint will create:"

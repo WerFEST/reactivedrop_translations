@@ -5593,6 +5593,7 @@
 "rd_crafting_submit_unselected_ingredients"	"Select items above to fill the blueprint"
 "rd_crafting_submit_ready"	"Craft!"
 "rd_crafting_submit_in_progress"	"Crafting..."
+"rd_crafting_select_items"	"Select an item for this blueprint:"
 "rd_crafting_required_items"	"Items:"
 "rd_crafting_output_items"	"This blueprint will create:"
 "rd_crafting_recipe_hoiaf_create_stack_participant"	"Stack HoIAF Participant medals"

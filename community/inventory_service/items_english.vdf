@@ -64,6 +64,7 @@
 "item_tournament_medal_hoiaf_top20_stackable_description"		"A stack of medals awarded to someone who finished seasons of Heroes of the Interstellar Armed Forces in the top 20. The numbers have been filed off."
 // Stats are only shown (and stored) on non-stackable tournament medals.
 "item_tournament_medal_hoiaf_summary"		"Finished Season %season% in rank #%rank% with a score of %score%."
+"item_tournament_medal_hoiaf_stat_season"		"Season %season%"
 "item_tournament_medal_hoiaf_stat_alien_kills"		"Aliens Killed"
 "item_tournament_medal_hoiaf_stat_player_kills"		"Team Kills"
 "item_tournament_medal_hoiaf_stat_games_won"		"Successful Missions"
