@@ -10835,9 +10835,9 @@
 "challenge_traitors_role_chat_skill_description_mimic"		""
 "[english]challenge_traitors_role_hud_role_description_mimic"		"Alien Expert's scanner sees you as an IAF marine"
 "challenge_traitors_role_hud_role_description_mimic"		"エイリアン専門家のスキャナにIAF海兵隊員として写る"
-		"[english]asw_ob_office_rev1"		"Escape using south door"
-		"asw_ob_office_rev1"		"Escape using south door"
-		"[english]asw_ob_office_rev1b"		"Proceed to the Rydberg Reactor"
-		"asw_ob_office_rev1b"		"Proceed to the Rydberg Reactor"
+"[english]asw_ob_office_rev1"		"Escape using south door"
+"asw_ob_office_rev1"		"南のドアから脱出する"
+"[english]asw_ob_office_rev1b"		"Proceed to the Rydberg Reactor"
+"asw_ob_office_rev1b"		"ライドバーグ動力炉へ向かう"
 }
 }
