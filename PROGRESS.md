@@ -13,7 +13,7 @@
 | [Indonesian](#indonesian-indonesia) | 575 | 2004 | 635 | 4353 | 1 | ✔️ | 840 | 139 |
 | [Italian](#italian-italiano) | ✔️ | ✔️ | ✔️ | 3 | 1 | ✔️ | ✔️ | ✔️ |
 | [Japanese](#japanese-日本語) | ✔️ | ✔️ | ✔️ | 1 | 1 | ✔️ | 35 | ✔️ |
-| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 31 | 1 | ✔️ | ✔️ | ✔️ |
+| [Korean](#koreana-한국어) | ✔️ | ✔️ | ✔️ | 30 | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Norwegian Bokmål](#non-curated-languages) | 74 | 708 | 48 | 4092 | 287 | 231 | 710 | 147 |
 | [Polish](#polish-polski) | 2 | 2004 | ✔️ | 3031 | 16 | 20 | 137 | 127 |
 | [European Portuguese](#portuguese-português-europeu) | 5 | 180 | 33 | 2477 | 267 | 52 | 636 | 142 |
@@ -722,8 +722,7 @@
 
 ### Strings
 
-- [items_koreana.vdf](community/inventory_service/items_koreana.vdf) has 1 untranslated strings.
-- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 31 untranslated strings.
+- [reactivedrop_koreana.txt](resource/reactivedrop_koreana.txt) has 30 untranslated strings.
 
 </details>
 
