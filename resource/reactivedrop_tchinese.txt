@@ -10492,6 +10492,8 @@
 "rd_crafting_submit_ready"		"合成!"
 "[english]rd_crafting_submit_in_progress"		"Crafting..."
 "rd_crafting_submit_in_progress"		"合成中..."
+		"[english]rd_crafting_submit_offline"		"Crafting requires a connection to the Steam servers"
+		"rd_crafting_submit_offline"		"Crafting requires a connection to the Steam servers"
 		"[english]rd_crafting_select_items"		"Select an item for this blueprint:"
 		"rd_crafting_select_items"		"Select an item for this blueprint:"
 "[english]rd_crafting_required_items"		"Items:"
